@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Microsoft Graph SDK's.
+- 🔭 I’m currently working on Microsoft Graph SDK's and the OpenAPI fluent SDK generator [Kiota](https://github.com/microsoft/kiota).
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on open source projects related to environment.
 - 🤔 I’m looking for help with Java package management?
