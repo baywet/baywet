@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects related to environment.
 - 🤔 I’m looking for help with Go package management?
 - 💬 Ask me about Microsoft Graph, dotnet, Azure DevOps and more!
-- 📫 How to reach me: @baywet.
+- 📫 How to reach me: firstname.lastname@microsoft.com.
 - 😄 Pronouns: he/him. ("oh great overlord" is also acceptable 😉)
 - ⚡ Fun fact: I'm usually the one who gets the most mosquitoes bites in a group.
 
